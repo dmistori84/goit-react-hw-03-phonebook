@@ -4,6 +4,11 @@
     padding-top: 8px;
 }
 
+.item:hover {
+    font-size: large;
+    cursor: pointer;
+}
+
 .btn {
     margin-left: 12px;
     cursor: pointer;

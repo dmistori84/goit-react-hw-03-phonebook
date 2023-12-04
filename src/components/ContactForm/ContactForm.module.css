@@ -1,20 +1,27 @@
 .form {
     display: inline-block;
-    border: solid;
-    padding: 24px;
+    
 }
 
 .formLabel {
     display: flex;
     justify-content: space-between;
+    color: aliceblue;
     padding-top: 8px;
+}
+
+.input {
+    margin-left: 24px;
+    border: 1px solid rgb(64, 0, 255); 
+    border-radius: 10px;
+    border-bottom: 1px solid #040e4f;
 }
 
 .btnForm {
     margin-top: 8px;
     cursor: pointer;
     border: none;
-    padding: 12px;
+    padding: 4px;
     border-radius: 6px;
     background-color: rgb(197, 248, 235);
     box-shadow: 0px 0px 1px 1px rgb(197,
