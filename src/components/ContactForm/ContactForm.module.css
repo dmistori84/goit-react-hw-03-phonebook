@@ -18,9 +18,12 @@
 }
 
 .btnForm {
+    display: block;
     margin-top: 8px;
     cursor: pointer;
     border: none;
+    margin-left: auto;
+        margin-right: auto;
     padding: 4px;
     border-radius: 6px;
     background-color: rgb(197, 248, 235);
